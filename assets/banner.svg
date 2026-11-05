@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
+<title id="title">短视频发布文案生成器</title><desc id="desc">一段脚本分别生成 B站、视频号、抖音的标题、正文与话题。</desc>
+<rect width="1600" height="640" rx="32" fill="#F5F3EC"/>
+<path d="M56 60H1544" stroke="#172A35" stroke-width="2"/>
+<text x="64" y="112" fill="#526367" font-size="22" font-family="Arial, sans-serif" letter-spacing="3">VIDEO PUBLISH COPY</text>
+<text x="64" y="212" fill="#142B35" font-size="76" font-weight="700" font-family="PingFang SC, Microsoft YaHei, sans-serif">短视频发布文案生成器</text>
+<text x="68" y="265" fill="#486068" font-size="29" font-family="PingFang SC, Microsoft YaHei, sans-serif">脚本输入</text>
+<path d="M216 255H310m-14-10 14 10-14 10" fill="none" stroke="#486068" stroke-width="2"/>
+<text x="330" y="265" fill="#486068" font-size="29" font-family="PingFang SC, Microsoft YaHei, sans-serif">三平台文案输出</text>
+<rect x="64" y="320" width="466" height="244" rx="22" fill="#163E50"/>
+<circle cx="112" cy="367" r="18" fill="#BCE5EF"/><text x="145" y="379" fill="#FFFFFF" font-size="34" font-weight="600" font-family="PingFang SC, Microsoft YaHei, sans-serif">B站</text>
+<text x="96" y="447" fill="#E4F4F6" font-size="29" font-family="PingFang SC, Microsoft YaHei, sans-serif">标题 · 简介 · 标签</text>
+<text x="96" y="507" fill="#B9D1D8" font-size="23" font-family="PingFang SC, Microsoft YaHei, sans-serif">搜索词与具体问题</text>
+<rect x="552" y="320" width="466" height="244" rx="22" fill="#CFE3D5"/>
+<circle cx="600" cy="367" r="18" fill="#2C6350"/><text x="633" y="379" fill="#173D31" font-size="34" font-weight="600" font-family="PingFang SC, Microsoft YaHei, sans-serif">视频号</text>
+<text x="584" y="447" fill="#173D31" font-size="29" font-family="PingFang SC, Microsoft YaHei, sans-serif">标题 · 文案 · 话题</text>
+<text x="584" y="507" fill="#466A59" font-size="23" font-family="PingFang SC, Microsoft YaHei, sans-serif">具体成果与自然互动</text>
+<rect x="1040" y="320" width="496" height="244" rx="22" fill="#E9B587"/>
+<circle cx="1088" cy="367" r="18" fill="#663E29"/><text x="1121" y="379" fill="#50321F" font-size="34" font-weight="600" font-family="PingFang SC, Microsoft YaHei, sans-serif">抖音</text>
+<text x="1072" y="447" fill="#50321F" font-size="29" font-family="PingFang SC, Microsoft YaHei, sans-serif">标题 · 描述 · 话题</text>
+<text x="1072" y="507" fill="#775139" font-size="23" font-family="PingFang SC, Microsoft YaHei, sans-serif">结果、细节与反差</text>
+</svg>

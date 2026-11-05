@@ -1,0 +1,14 @@
+{
+  "id": "09-macos-screenshot",
+  "title": "仅视频号的操作教程",
+  "platforms": [
+    "视频号"
+  ],
+  "avoid_titles": [
+    "截图后直接标重点"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

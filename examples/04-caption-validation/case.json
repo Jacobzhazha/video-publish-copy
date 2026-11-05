@@ -1,0 +1,16 @@
+{
+  "id": "04-caption-validation",
+  "title": "文案结构校验",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "写完文案再过一遍"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

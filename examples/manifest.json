@@ -1,0 +1,188 @@
+[
+  {
+    "id": "01-csv-dedup",
+    "title": "CSV 去重教程",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "表格去重前先留原件"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "02-file-renaming",
+    "title": "文件批量命名",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "把文件排成一个顺序"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "03-zip-inspection",
+    "title": "技能 ZIP 检查",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "先看包里有什么"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "04-caption-validation",
+    "title": "文案结构校验",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "写完文案再过一遍"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "05-tomato-eggs",
+    "title": "家常菜教程",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "番茄先炒出汁"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "06-desk-reset",
+    "title": "桌面整理",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "东西各有固定位置"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "07-fraction-addition",
+    "title": "分数知识讲解",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "先把每份变得一样大"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "08-reading-notes",
+    "title": "阅读笔记方法",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "一条笔记留三个东西"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "09-macos-screenshot",
+    "title": "仅视频号的操作教程",
+    "platforms": [
+      "视频号"
+    ],
+    "avoid_titles": [
+      "截图后直接标重点"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "10-photo-exposure",
+    "title": "仅抖音的摄影知识",
+    "platforms": [
+      "抖音"
+    ],
+    "avoid_titles": [
+      "窗边人像先看脸"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "11-json-formatting",
+    "title": "仅 B站的编程教程",
+    "platforms": [
+      "B站"
+    ],
+    "avoid_titles": [
+      "把嵌套数据摊开看"
+    ],
+    "complete": true,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  },
+  {
+    "id": "12-event-draft",
+    "title": "活动信息缺失草稿",
+    "platforms": [
+      "B站",
+      "视频号",
+      "抖音"
+    ],
+    "avoid_titles": [
+      "一起练习写视频标题"
+    ],
+    "complete": false,
+    "source_kind": "authored-demo-script",
+    "input": "input.md",
+    "output": "视频发布文案.md"
+  }
+]

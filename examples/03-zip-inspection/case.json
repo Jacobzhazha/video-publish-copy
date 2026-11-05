@@ -1,0 +1,16 @@
+{
+  "id": "03-zip-inspection",
+  "title": "技能 ZIP 检查",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "先看包里有什么"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10-photo-exposure",
+  "title": "仅抖音的摄影知识",
+  "platforms": [
+    "抖音"
+  ],
+  "avoid_titles": [
+    "窗边人像先看脸"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

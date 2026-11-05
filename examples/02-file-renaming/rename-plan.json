@@ -1,0 +1,14 @@
+[
+  {
+    "from": "a.jpg",
+    "to": "photo-001.jpg"
+  },
+  {
+    "from": "b.jpg",
+    "to": "photo-002.jpg"
+  },
+  {
+    "from": "c.jpg",
+    "to": "photo-003.jpg"
+  }
+]

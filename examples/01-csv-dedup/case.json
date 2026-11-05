@@ -1,0 +1,16 @@
+{
+  "id": "01-csv-dedup",
+  "title": "CSV 去重教程",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "表格去重前先留原件"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "12-event-draft",
+  "title": "活动信息缺失草稿",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "一起练习写视频标题"
+  ],
+  "complete": false,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

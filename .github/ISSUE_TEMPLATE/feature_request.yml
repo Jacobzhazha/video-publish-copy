@@ -1,0 +1,15 @@
+name: 改进建议 / Feature request
+description: 说明真实使用场景与预期结果
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景 / Use case
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 预期行为与示例 / Expected behavior and example
+    validations:
+      required: true

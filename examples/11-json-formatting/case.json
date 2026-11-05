@@ -1,0 +1,14 @@
+{
+  "id": "11-json-formatting",
+  "title": "仅 B站的编程教程",
+  "platforms": [
+    "B站"
+  ],
+  "avoid_titles": [
+    "把嵌套数据摊开看"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

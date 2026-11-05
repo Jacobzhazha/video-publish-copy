@@ -1,0 +1,16 @@
+{
+  "id": "02-file-renaming",
+  "title": "文件批量命名",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "把文件排成一个顺序"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

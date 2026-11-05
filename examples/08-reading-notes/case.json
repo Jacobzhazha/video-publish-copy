@@ -1,0 +1,16 @@
+{
+  "id": "08-reading-notes",
+  "title": "阅读笔记方法",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "一条笔记留三个东西"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

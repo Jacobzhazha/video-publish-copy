@@ -1,0 +1,16 @@
+{
+  "id": "05-tomato-eggs",
+  "title": "家常菜教程",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "番茄先炒出汁"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

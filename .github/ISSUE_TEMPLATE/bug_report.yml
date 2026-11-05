@@ -1,0 +1,28 @@
+name: 问题反馈 / Bug report
+description: 提供最小输入、输出与实际运行环境
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Agent 与版本 / Environment
+      placeholder: Codex CLI version, OS, Python version
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: 最小输入 / Minimal input
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: 实际输出或检查错误 / Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望行为 / Expected result
+    validations:
+      required: true

@@ -1,0 +1,16 @@
+{
+  "id": "06-desk-reset",
+  "title": "桌面整理",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "东西各有固定位置"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "07-fraction-addition",
+  "title": "分数知识讲解",
+  "platforms": [
+    "B站",
+    "视频号",
+    "抖音"
+  ],
+  "avoid_titles": [
+    "先把每份变得一样大"
+  ],
+  "complete": true,
+  "source_kind": "authored-demo-script",
+  "input": "input.md",
+  "output": "视频发布文案.md"
+}
